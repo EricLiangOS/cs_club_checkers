@@ -1,1 +1,1 @@
-# cs_club_checkers
+# CS Club Checkers Project
